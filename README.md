@@ -34,3 +34,18 @@ mkdocs.yml                   - The configuration file for the site.
 - To add a new book, create a new folder in `docs/books/` and add the chapters as markdown files.
 - To add a new document, create a new folder in `docs/documents/` and add the content as markdown files.
 - After adding the content, update the `nav` section in `mkdocs.yml` to include the new content.
+
+### Preview the site
+
+```bash
+mkdocs build
+./server.sh
+```
+
+### Push changes
+
+```bash
+git add .
+git commit -m "docs: add ejin-how-to-just/chapter-1"
+git push
+```

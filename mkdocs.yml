@@ -1,4 +1,4 @@
-site_name: Readings@VRC.ONE
+site_name: Read@VRC.ONE
 site_url: http://localhost:8000
 theme:
   name: material
@@ -11,6 +11,6 @@ extra:
 nav:
   - Home: index.md
   - Books:
-    - 《EJIN酱的How to Just ~ 从零开始的虚拟瑟瑟 ~》:
+    - 《EJIN酱的How to Just ～从零开始的虚拟瑟瑟～》:
       - 前言: books/ejin-how-to-just/preface.md
       - 第一章: books/ejin-how-to-just/chapter-1.md

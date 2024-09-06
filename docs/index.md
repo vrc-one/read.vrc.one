@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to Readings@VRC.ONE.
+Welcome to Read@VRC.ONE.
 
 We host a collection of readings, documents, and booklets that we find interesting and relevant to the VRChat community. We hope you find them useful too.
 
